@@ -1,5 +1,5 @@
 #Résumé
-
+#My AI Idea
 This project proposes a simple AI tool designed to help high school students prepare for exams.  
 The idea is to build an AI assistant that can:
 
